@@ -33,3 +33,7 @@ Skipping the stage step can sometimes make you include unwanted changes.
 
 git log 		//to view commits history/ log
 press q to exit
+
+git command -help  //to See all the available options for the specific command
+git help --all  //to See all possible commands
+Note: You can also use --help instead of -help to open the relevant Git manual page
