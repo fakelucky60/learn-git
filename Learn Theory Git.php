@@ -44,3 +44,6 @@ Files in your Git repository folder can be in one of 2 states:
 	Tracked - files that Git knows about and are added to the repository
 	Untracked - files that are in your working directory, but not added to the repository
 
+git add --all
+	Using --all instead of individual filenames will stage all changes (new, modified, and deleted) files.
+

@@ -14,4 +14,10 @@ git init 		//to initalize empty git repository
 ls				//list of all files
 git status		//to check the status of current repository
 
+git add index.html	//to add index.html to stagaging area
+git add --all		//to stage all files in pwd
+
+Note: The shorthand command for git add --all is git add -A
+
+
 
