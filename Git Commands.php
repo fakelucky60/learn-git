@@ -36,4 +36,10 @@ press q to exit
 
 git command -help  //to See all the available options for the specific command
 git help --all  //to See all possible commands
+
 Note: You can also use --help instead of -help to open the relevant Git manual page
+
+git help --all  //to See all possible commands
+Warning: This will display a very long list of commands
+Note: If you find yourself stuck in the list view, SHIFT + G to jump the end of the list, then q to exit the view.
+
