@@ -19,5 +19,17 @@ git add --all		//to stage all files in pwd
 
 Note: The shorthand command for git add --all is git add -A
 
+git status --short		//to check status with short/compact version 
+Note: Short status flags are:
+	?? - Untracked files
+	A - Files added to stage
+	M - Modified files
+	D - Deleted files
 
+git commit -a -m "Message about commit"	//to commit without staging area
 
+Warning: Skipping the Staging Environment is not generally recommended.
+Skipping the stage step can sometimes make you include unwanted changes.
+
+git log 		//to view commits history/ log
+press q to exit
