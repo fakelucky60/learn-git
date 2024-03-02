@@ -57,4 +57,11 @@ The commit command performs a commit, and the -m "message" adds a message.
 Git Commit without Stage
 Sometimes, when you make small changes, using the staging environment seems like a waste of time. It is possible to commit changes directly, skipping the staging environment. The -a option will automatically stage every changed, already tracked file.
 
+Working with Git Branches
+In Git, a branch is a new/separate version of the main repository.
+Let's say you have a large project, and you need to update the design on it.
+Branches allow you to work on different parts of a project without impacting the main branch.
+When the work is complete, a branch can be merged with the main project.
+You can even switch between branches and work on different projects without them interfering with each other.
+Branching in Git is very lightweight and fast!
 

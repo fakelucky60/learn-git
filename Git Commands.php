@@ -43,3 +43,15 @@ git help --all  //to See all possible commands
 Warning: This will display a very long list of commands
 Note: If you find yourself stuck in the list view, SHIFT + G to jump the end of the list, then q to exit the view.
 
+git branch hello-world //to create a new branch name of 'hello-world', 
+						//with the copy of same code where you create a new branch
+						
+git branch				//to see the list of all branch in the repository
+
+We can see the new branch with the name "hello-world", but the * beside master specifies that we are currently on that branch.
+
+checkout is the command used to check out a branch. Moving us from the current branch, to the one specified at the end of the command:
+
+git checkout hello-world	//Switched to branch 'hello-world'
+
+Note: Using the -b option on checkout will create a new branch, and move to it, if it does not exist
