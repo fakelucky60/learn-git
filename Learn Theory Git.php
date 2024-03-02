@@ -37,3 +37,10 @@ What is GitHub?
 	GitHub makes tools that use Git.
 	GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
 	In this tutorial, we will focus on using Git with GitHub.
+	
+Git status
+Now Git is aware of the file, but has not added it to our repository!
+Files in your Git repository folder can be in one of 2 states:
+	Tracked - files that Git knows about and are added to the repository
+	Untracked - files that are in your working directory, but not added to the repository
+

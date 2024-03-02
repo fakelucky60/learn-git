@@ -11,4 +11,7 @@ cd myproject	//to go to myproject folder
 				//cd changes the current working directory.
 				
 git init 		//to initalize empty git repository
+ls				//list of all files
+git status		//to check the status of current repository
+
 
