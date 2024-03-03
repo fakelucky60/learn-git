@@ -55,3 +55,11 @@ checkout is the command used to check out a branch. Moving us from the current b
 git checkout hello-world	//Switched to branch 'hello-world'
 
 Note: Using the -b option on checkout will create a new branch, and move to it, if it does not exist
+
+
+git merge branchName 		//to merge branchName into master branch
+							//this command should be run from master branch
+	
+	git branch -d branchName	//to delete branch "branchName"
+	
+	

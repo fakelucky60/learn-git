@@ -65,3 +65,14 @@ When the work is complete, a branch can be merged with the main project.
 You can even switch between branches and work on different projects without them interfering with each other.
 Branching in Git is very lightweight and fast!
 
+Merge Branches
+to merge a branch first all changes to be commited before merging.
+Then checkout/switch to master branch and run this Command:
+git merge branchName
+
+Merge Conflict
+Git can handle most merges on its own with automatic merging 
+features. A conflict arises when two separate branches have made 
+edits to the same line in a file, or when a file has been deleted 
+in one branch but edited in the other. Conflicts will most likely 
+happen when working in a team environment.
