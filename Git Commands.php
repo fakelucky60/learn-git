@@ -95,4 +95,13 @@ git merge branchName
 git branch -d branchName
 	to delete branch "branchName"
 	
+git remote rm origin
+	to delete/ remove origin
+	
+git remote add origin https://github.com/fakelucky60/learn-git.git
+	to add origin in git repository
+	Add a remote repository as an origin
+	
+git push --set-upstream origin master
+	to first time code push on github
 	
