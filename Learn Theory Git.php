@@ -100,3 +100,29 @@ Merge Conflict
 	made edits to the same line in a file, or when a file has been 
 	deleted in one branch but edited in the other. Conflicts will 
 	most likely happen when working in a team environment.
+	
+Git Pull from GitHub
+	Pulling to Keep up-to-date with Changes
+	When working as a team on a project, it is important that
+	everyone stays up to date.
+
+	Any time you start working on a project, you should get the 
+	most recent changes to your local copy.
+
+	With Git, you can do that with pull.
+	pull is a combination of 2 different commands:
+		*fetch
+		*merge
+		
+	Git Fetch
+		fetch gets all the change history of a tracked branch/repo.
+		So, on your local Git, fetch updates to see what has changed 
+		on GitHub:
+		We are behind the origin/master by 1 commit.
+		
+	Git Merge
+		merge combines the current branch, with a specified branch.
+		
+	Git Pull
+		But what if you just want to update your local repository, without going through all those steps?
+		pull is a combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on.

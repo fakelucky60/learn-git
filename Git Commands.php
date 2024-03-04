@@ -105,3 +105,11 @@ git remote add origin https://github.com/fakelucky60/learn-git.git
 git push --set-upstream origin master
 	to first time code push on github
 	
+git fetch origin
+	to gets all the change history of a tracked branch/repo.
+	
+git merge origin/master
+	to combines the current branch, with a specified branch.
+	
+git pull origin
+	to update our local Git:
