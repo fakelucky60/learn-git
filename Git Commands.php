@@ -122,5 +122,3 @@ git branch -r
 	
 git branch -a
 	to show all local and remote branches
-	
-
