@@ -24,3 +24,5 @@ This line is edited on github directly for learing purpose
 
 This is line is added from on github from new branch, that branch also created from github too.
 
+*ap github par directly branch create kar sakte hain, lekin jab ap apne local system pe 'git pull' karain gay to ap ke pas code pull ho jay ga lekin jab ap 'git branch' ki command lagain gay to us main wo new branch show nhi hogi, leking jab ap 'git branch -a' lagain gay to wo branch red color main show ho jay gi, us ke bad jab 'git checkout new-branch' karian gay to wo new branch ap ke local system main update ho jay gi.
+

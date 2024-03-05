@@ -113,3 +113,14 @@ git merge origin/master
 	
 git pull origin
 	to update our local Git:
+	
+git branch
+	to show branch list in your repository
+
+git branch -r
+	to show only remote branches
+	
+git branch -a
+	to show all local and remote branches
+	
+
