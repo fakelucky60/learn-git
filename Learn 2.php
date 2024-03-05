@@ -22,3 +22,5 @@ us ke bad uper wale tarike se new origin add karain.
 
 This line is edited on github directly for learing purpose
 
+This is line is added from on github from new branch, that branch also created from github too.
+
